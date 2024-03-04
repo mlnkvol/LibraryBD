@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.c
+C:\Users\melni\OneDrive\Рабочий стол\KNU\БД\Lab_1A\lab1\MelnykovaOlya\Project1\Common.c(119,2): warning C4013: 'updateAuthor' undefined; assuming extern returning int
+  (compiling source file 'main.c')
+  
+C:\Users\melni\OneDrive\Рабочий стол\KNU\БД\Lab_1A\lab1\MelnykovaOlya\Project1\Common.c(394,7): warning C4013: 'getAuthor' undefined; assuming extern returning int
+  (compiling source file 'main.c')
+  
+  Project1.vcxproj -> C:\Users\melni\OneDrive\Рабочий стол\KNU\БД\Lab_1A\lab1\MelnykovaOlya\x64\Debug\lab1.exe
